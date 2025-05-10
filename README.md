@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafamagde&label=Profile%20views&color=0e75b6&style=flat" alt="mostafamagde" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me mostafamagde227@gmail.com
+- 📄 Know about my experiences(CV) https://drive.google.com/file/d/1cHYAkQb4nZGWMbyI1iFMNCySNmDdlqVS/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
